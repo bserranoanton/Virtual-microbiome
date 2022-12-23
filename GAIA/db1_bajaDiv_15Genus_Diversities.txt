@@ -1,0 +1,6 @@
+Mean alpha diversity species 1.2148379460666017
+Mean alpha diversity genus 0.27796630467908806
+Mean alpha diversity families 0.2580296876369426
+Mean beta diversity species 0.5337025199196579
+Mean beta diversity genus 0.432533450222384
+Mean beta diversity families 0.4311335755182707

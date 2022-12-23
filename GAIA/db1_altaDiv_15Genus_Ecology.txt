@@ -1,0 +1,2 @@
+index	nCommunities	nFamilies	nGenus	nSpecies	mu	sigma	shape	meanAlphaDiv	meanBetaDiv
+0	50	4	15	300	-17	2.1	0.9	5.172	0.5
