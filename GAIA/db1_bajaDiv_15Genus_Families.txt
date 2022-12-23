@@ -1,6 +1,0 @@
-Simulation  index	genus per family
-Simulation 0 mu= -17sigma= 0.9
-	Family 0	Genus 1	[13]
-	Family 1	Genus 2	[2, 8]
-	Family 2	Genus 10	[0, 3, 4, 6, 7, 9, 10, 11, 12, 14]
-	Family 3	Genus 2	[1, 5]
